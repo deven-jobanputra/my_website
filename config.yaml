@@ -81,10 +81,10 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: devenphoto.jpg
         subtitle: A glimspe into my world
         title: Deven's website
-        url: blogs/Deven
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
